@@ -4,16 +4,16 @@ An Excel-based data analysis project exploring coffee sales trends, customer beh
 
 ## Dataset Overview
 
-| Sheet | Description |
-|-------|-------------|
-| **orders** | Raw transaction data — order ID, date, customer, product, quantity, and sales |
-| **customers** | Customer details — name, email, country, loyalty card status |
-| **products** | Product catalogue — coffee type, roast type, size, unit price, and profit |
-| **Total Sales Over Time** | Monthly sales breakdown by coffee type (2019–2022) |
-| **Top Customers** | Top 5 customers by total sales |
-| **Top Countries** | Sales summary by country (US, Ireland, UK) |
-| **Quantity Ordered** | Total sales by coffee type |
-| **Dashboard** | Visual summary dashboard |
+The workbook contains 8 sheets:
+
+- **orders** — Raw transaction data: order ID, date, customer, product, quantity, and sales
+- **customers** — Customer details: name, email, country, loyalty card status
+- **products** — Product catalogue: coffee type, roast type, size, unit price, and profit
+- **Total Sales Over Time** — Monthly sales breakdown by coffee type (2019–2022)
+- **Top Customers** — Top 5 customers by total sales
+- **Top Countries** — Sales summary by country (US, Ireland, UK)
+- **Quantity Ordered** — Total sales by coffee type
+- **Dashboard** — Visual summary dashboard
 
 ## Key Insights
 
